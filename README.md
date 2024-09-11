@@ -1,4 +1,4 @@
-# Crop-Yield-Prediction
+# Crop-Yield-Prediction-For-Gujarat
 ## Cotton Yield Prediction for Gujarat
 ### Objectives
 1. To develop machine learning models capable of accurately predicting cotton yield based on environmental factors, historical data and agricultural practices.
